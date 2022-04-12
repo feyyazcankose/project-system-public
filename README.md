@@ -3,7 +3,7 @@
 Laravel kullanarak Proje derslerinde, öğrencilerin proje konusu önermesi, kabul ettirmesi, projeyi raporlaştırması ve tez haline getirmesini düzenleyen web tabanlı bir Proje Takip Sistemi geliştirilecektir.
 
 ## Projenin isterleri
-Projenin tüm isterlerine `required` klasöründen görüntüleyebilirsiniz.
+Projenin tüm isterleri [Görüntüle](https://github.com/feyyazcankose/project-system-public/blob/main/readme/document/projetakipsistemiisterleri.pdf) 
 ## Projenin Veri Tabanı Modeli
 Proje için kullanmış olduğumuz veri tabanı modeli [Görüntüle](https://github.com/feyyazcankose/project-system-public/blob/main/readme/document/databesemodel.pdf) 
 ## Kurulum
