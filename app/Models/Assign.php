@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Assign extends Model
+{
+    use HasFactory;
+    protected $table="assigns";
+    protected $fillable = [
+        'period_student_id','period_teacher_id'
+    ];
+}
